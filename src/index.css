@@ -2,3 +2,7 @@
     --bs-body-font-family: 'Playfair Display', serif;
     --bs-font-sans-serif: 'Playfair Display', serif;
 }
+body {
+    background-color: #1A1D20;
+    color: #F4F4F4;
+}
